@@ -4,10 +4,12 @@ Builds one `.ics` calendar file with:
 - 🏏 Indian national cricket team matches (all formats)
 - ⚽ FIFA World Cup matches
 - 🎾 Grand Slam tennis matches (Australian Open, French Open, Wimbledon, US Open)
+- ⚾ Atlanta Braves (MLB) games
 
-A GitHub Action runs the script every 2 hours and commits the refreshed
+A GitHub Action runs the script every 15 minutes and commits the refreshed
 `sports.ics` back into this repo, so the file always has up-to-date
-schedules and scores.
+schedules and scores. The live/final score is included right in the event
+**title** (not just the description) so it shows up on calendar widgets.
 
 ## 1. Where the data comes from
 
@@ -16,6 +18,14 @@ schedules and scores.
 | Cricket | [cricapi.com](https://cricapi.com/)       | Yes — **free** tier (100 req/day) |
 | Soccer  | ESPN's public site API                    | No                           |
 | Tennis  | ESPN's public site API                    | No                           |
+| Baseball (Braves) | ESPN's public site API          | No                           |
+
+⚠️ **Cricket quota note**: the workflow now runs every 15 minutes (96
+runs/day), and each run makes 1 cricapi call — that's ~96 of your 100
+free daily requests, leaving almost no headroom for manual re-runs. If you
+see cricket data disappear, you've likely hit the daily cap; it resets at
+midnight UTC. If that becomes annoying, ease the cron back to every 30-60
+minutes in `.github/workflows/update-ics.yml`.
 
 ESPN's API is unofficial/undocumented (it's what espn.com itself uses), so
 it could change shape someday — if a section ever comes back empty, that's
@@ -52,9 +62,9 @@ Match times are converted to whatever `LOCAL_TZ` is set to. It's currently
 
 ### e) Turn the workflow on
 The workflow file is already in `.github/workflows/update-ics.yml`. Once
-pushed to GitHub, it runs automatically every 2 hours. You can also trigger
-it manually anytime: repo → **Actions** tab → **Update sports.ics** →
-**Run workflow**.
+pushed to GitHub, it runs automatically every 15 minutes. You can also
+trigger it manually anytime: repo → **Actions** tab → **Update sports.ics**
+→ **Run workflow**.
 
 ## 3. Hosting the .ics file (so your phone can subscribe)
 
@@ -78,10 +88,11 @@ serves the latest version.
 ## 4. Important: this is not truly "live"
 
 Two refresh rates are stacked here, and the slower one wins:
-- **Our backend** (the GitHub Action) updates `sports.ics` every 2 hours.
+- **Our backend** (the GitHub Action) updates `sports.ics` every 15 minutes.
 - **Your calendar app** decides on its own how often to re-check a
-  subscribed URL — Apple Calendar and Google Calendar typically poll
-  every several hours, not every 2 hours, and you can't fully control this.
+  subscribed URL — even with Apple Calendar set to "every 15 minutes" as
+  its most frequent option, it doesn't guarantee it'll hit exactly that
+  cadence every time, and you can't fully control this.
 
 So treat this as "schedules + score updates a few times a day," not a
 ball-by-ball live scoreboard. For real live scores, a live scoring app/site
