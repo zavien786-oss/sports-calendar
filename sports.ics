@@ -4,4 +4,14 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:🏏 India vs West Indies\, 1st ODI\, West Indies tour of India\, 
+ 2026 (ODI) — WI 176/1
+DTSTART;TZID=America/New_York:20260927T043000
+DTEND;TZID=America/New_York:20260927T123000
+DTSTAMP:20260927T104804Z
+UID:cricket-90ae280c-cb10-4d58-9bcc-ec95294819e6@sports-calendar
+DESCRIPTION:India opt to bowl\nWest Indies Inning 1: 176/1 (30 ov)
+LOCATION:Greenfield International Stadium\, Thiruvananthapuram
+END:VEVENT
 END:VCALENDAR
