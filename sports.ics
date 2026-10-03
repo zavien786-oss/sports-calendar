@@ -4,26 +4,4 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
-BEGIN:VEVENT
-SUMMARY:🏏 India vs West Indies\, 3rd ODI\, West Indies tour of India\, 
- 2026 (ODI) — West Indies won by 5 wkts
-DTSTART;TZID=America/New_York:20261003T043000
-DTEND;TZID=America/New_York:20261003T123000
-DTSTAMP:20261003T173805Z
-UID:cricket-da91f633-acac-4449-86f8-9bff6244053f@sports-calendar
-DESCRIPTION:West Indies won by 5 wkts\nindia Inning 1: 351/7 (50 ov)\nIndi
- a\,West Indies Inning 1: 352/5 (48.2 ov)
-LOCATION:PCA International Cricket Stadium\, Ground A\, New Chandigarh
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India vs West Indies\, 2nd ODI\, West Indies tour of India\, 
- 2026 (ODI) — India won by 8 wkts
-DTSTART;TZID=America/New_York:20260930T043000
-DTEND;TZID=America/New_York:20260930T123000
-DTSTAMP:20261003T173805Z
-UID:cricket-56d07759-19dd-4a8c-a3d5-58bfd6a142a1@sports-calendar
-DESCRIPTION:India won by 8 wkts\nWest Indies Inning 1: 405/7 (50 ov)\nIndi
- a Inning 1: 406/2 (43.3 ov)
-LOCATION:Barsapara Cricket Stadium\, Guwahati
-END:VEVENT
 END:VCALENDAR
