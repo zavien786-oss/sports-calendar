@@ -5,11 +5,22 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:🏏 India vs West Indies\, 3rd ODI\, West Indies tour of India\, 
+ 2026 (ODI) — india 351/7\, India\,West Indies 43/1
+DTSTART;TZID=America/New_York:20261003T043000
+DTEND;TZID=America/New_York:20261003T123000
+DTSTAMP:20261003T133944Z
+UID:cricket-da91f633-acac-4449-86f8-9bff6244053f@sports-calendar
+DESCRIPTION:West Indies need 309 runs\nindia Inning 1: 351/7 (50 ov)\nIndi
+ a\,West Indies Inning 1: 43/1 (4.3 ov)
+LOCATION:PCA International Cricket Stadium\, Ground A\, New Chandigarh
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏏 India vs West Indies\, 2nd ODI\, West Indies tour of India\, 
  2026 (ODI) — India won by 8 wkts
 DTSTART;TZID=America/New_York:20260930T043000
 DTEND;TZID=America/New_York:20260930T123000
-DTSTAMP:20261003T082917Z
+DTSTAMP:20261003T133944Z
 UID:cricket-56d07759-19dd-4a8c-a3d5-58bfd6a142a1@sports-calendar
 DESCRIPTION:India won by 8 wkts\nWest Indies Inning 1: 405/7 (50 ov)\nIndi
  a Inning 1: 406/2 (43.3 ov)
