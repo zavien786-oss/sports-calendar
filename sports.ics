@@ -4,4 +4,37 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:🏏 India Women vs Sri Lanka Women\, Final\, Womens Asia Cup 2026
+  (T20) — India Women won by 72 runs
+DTSTART;TZID=America/New_York:20260912T200000
+DTEND;TZID=America/New_York:20260913T000000
+DTSTAMP:20261004T182445Z
+UID:cricket-e4c90dc0-53fd-461a-a3e9-6ebb7e3bcc23@sports-calendar
+DESCRIPTION:India Women won by 72 runs\nindia women Inning 1: 183/5 (20 ov
+ )\nIndia Women\,Sri Lanka Women Inning 1: 111/10 (20 ov)
+LOCATION:Dubai International Cricket Stadium\, Dubai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India Women vs Bangladesh Women\, Semi Final 1 (A1 v B2)\, Wo
+ mens Asia Cup 2026 (T20) — India Women won by 40 runs
+DTSTART;TZID=America/New_York:20260909T200000
+DTEND;TZID=America/New_York:20260910T000000
+DTSTAMP:20261004T182445Z
+UID:cricket-17f82cc5-f9f6-4c8a-ab78-927fdb831ee2@sports-calendar
+DESCRIPTION:India Women won by 40 runs\nIndia Women Inning 1: 149/6 (20 ov
+ )\nBangladesh Women Inning 1: 109/7 (20 ov)
+LOCATION:Dubai International Cricket Stadium\, Dubai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India Women vs Pakistan Women\, Match 9\, Group A\, Womens As
+ ia Cup 2026 (T20) — India Women won by 7 wkts
+DTSTART;TZID=America/New_York:20260904T200000
+DTEND;TZID=America/New_York:20260905T000000
+DTSTAMP:20261004T182445Z
+UID:cricket-b4f72629-55b8-4934-ae7e-e2b2fc3c80a0@sports-calendar
+DESCRIPTION:India Women won by 7 wkts\npakistan women Inning 1: 55/10 (18.
+ 1 ov)\nIndia Women\,Pakistan Women Inning 1: 57/3 (8.4 ov)
+LOCATION:Dubai International Cricket Stadium\, Dubai
+END:VEVENT
 END:VCALENDAR
