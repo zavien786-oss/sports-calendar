@@ -9,7 +9,7 @@ SUMMARY:🏏 India Women vs Bangladesh Women\, Semi Final 1 (A1 v B2)\, Wo
  mens Asia Cup 2026 (T20) — India Women won by 40 runs
 DTSTART;TZID=America/New_York:20260909T200000
 DTEND;TZID=America/New_York:20260910T000000
-DTSTAMP:20261005T151103Z
+DTSTAMP:20261005T220300Z
 UID:cricket-17f82cc5-f9f6-4c8a-ab78-927fdb831ee2@sports-calendar
 DESCRIPTION:India Women won by 40 runs\nIndia Women Inning 1: 149/6 (20 ov
  )\nBangladesh Women Inning 1: 109/7 (20 ov)
@@ -20,30 +20,18 @@ SUMMARY:🏏 India U19 vs Australia U19\, 2nd unofficial Test\, Australia
  U19 tour of India 2026 () — AU 174/10\, IN19 38/2
 DTSTART;TZID=America/New_York:20261005T000000
 DTEND;TZID=America/New_York:20261005T040000
-DTSTAMP:20261005T151103Z
+DTSTAMP:20261005T220300Z
 UID:cricket-055a0f85-0cc8-4deb-a9f7-7884e6c537e9@sports-calendar
 DESCRIPTION:Day 1: Stumps - India U19 trail by 136 runs\nAustralia U19 Inn
  ing 1: 174/10 (73 ov)\nIndia U19 Inning 1: 38/2 (15 ov)
 LOCATION:Narendra Modi Stadium B Ground\, Ahmedabad
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 Jammu and Kashmir vs Rest of India\, Irani Cup\, Irani Cup 20
- 26 (TEST) — Rest of India won by 167 runs
-DTSTART;TZID=America/New_York:20260930T200000
-DTEND;TZID=America/New_York:20261001T040000
-DTSTAMP:20261005T151103Z
-UID:cricket-2566be70-33cd-42a7-85b7-02694e0754e9@sports-calendar
-DESCRIPTION:Rest of India won by 167 runs\nRest of India Inning 1: 237/10 
- (68.1 ov)\nJammu and Kashmir Inning 1: 278/10 (64.2 ov)\nRest of India Inn
- ing 2: 319/10 (99.5 ov)\nJammu and Kashmir Inning 2: 111/10 (28.4 ov)
-LOCATION:Sher-i-Kashmir Stadium\, Srinagar
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:🏏 India vs West Indies\, 3rd ODI\, West Indies tour of India\, 
  2026 (ODI) — West Indies won by 5 wkts
 DTSTART;TZID=America/New_York:20261003T043000
 DTEND;TZID=America/New_York:20261003T123000
-DTSTAMP:20261005T151103Z
+DTSTAMP:20261005T220300Z
 UID:cricket-da91f633-acac-4449-86f8-9bff6244053f@sports-calendar
 DESCRIPTION:West Indies won by 5 wkts\nindia Inning 1: 351/7 (50 ov)\nIndi
  a\,West Indies Inning 1: 352/5 (48.2 ov)
