@@ -5,36 +5,38 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:🏏 India Women vs Bangladesh Women\, Semi Final 1 (A1 v B2)\, Wo
- mens Asia Cup 2026 (T20) — India Women won by 40 runs
-DTSTART;TZID=America/New_York:20260909T200000
-DTEND;TZID=America/New_York:20260910T000000
-DTSTAMP:20261013T083037Z
-UID:cricket-17f82cc5-f9f6-4c8a-ab78-927fdb831ee2@sports-calendar
-DESCRIPTION:India Women won by 40 runs\nIndia Women Inning 1: 149/6 (20 ov
- )\nBangladesh Women Inning 1: 109/7 (20 ov)
-LOCATION:Dubai International Cricket Stadium\, Dubai
+SUMMARY:🏏 India A Women vs Australia A Women\, Only unofficial Test\, A
+ ustralia A Women tour of India 2026 () — India A Women won by 281 runs
+DTSTART;TZID=America/New_York:20260928T200000
+DTEND;TZID=America/New_York:20260929T000000
+DTSTAMP:20261013T162818Z
+UID:cricket-9c01691f-668b-420e-954e-4d76abfd9d37@sports-calendar
+DESCRIPTION:India A Women won by 281 runs\nindia a women Inning 1: 364/10 
+ (103.3 ov)\nIndia A Women\,Australia A Women Inning 1: 176/10 (63.4 ov)\ni
+ ndia a women Inning 2: 257/10 (64.2 ov)\nIndia A Women\,Australia A Women 
+ Inning 2: 164/10 (76 ov)
+LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 India A vs Australia A\, 3rd unofficial ODI\, Australia A tou
- r of India 2026 () — India A won by 49 runs
-DTSTART;TZID=America/New_York:20261010T233000
-DTEND;TZID=America/New_York:20261011T033000
-DTSTAMP:20261013T083037Z
-UID:cricket-842f3c1d-b2c9-4945-b09b-7b12cb1b5ab8@sports-calendar
-DESCRIPTION:India A won by 49 runs\nIndia A Inning 1: 275/10 (47.3 ov)\nAu
- stralia A Inning 1: 226/10 (46.2 ov)
-LOCATION:Cricket Association Puducherry Siechem Ground\, Puducherry
+SUMMARY:🏏 India A Women vs Australia A Women\, 3rd unofficial ODI\, Aus
+ tralia A Women tour of India 2026 () — India A Women won by 4 wkts
+DTSTART;TZID=America/New_York:20260924T200000
+DTEND;TZID=America/New_York:20260925T000000
+DTSTAMP:20261013T162818Z
+UID:cricket-48aa16f6-6ae2-4736-9802-2c4e2e11e13d@sports-calendar
+DESCRIPTION:India A Women won by 4 wkts\naustralia a women Inning 1: 362/9
+  (50 ov)\nIndia A Women\,Australia A Women Inning 1: 364/6 (48.2 ov)
+LOCATION:Punjab Cricket Association IS Bindra Stadium\, Mohali
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 India A vs Australia A\, 2nd unofficial ODI\, Australia A tou
- r of India 2026 () — Australia A won by 69 runs
-DTSTART;TZID=America/New_York:20261008T233000
-DTEND;TZID=America/New_York:20261009T033000
-DTSTAMP:20261013T083037Z
-UID:cricket-45e00e94-2219-4348-8b0c-01184813f3fc@sports-calendar
-DESCRIPTION:Australia A won by 69 runs\naustralia a Inning 1: 275/10 (49.5
-  ov)\nIndia A\,Australia A Inning 1: 206/10 (45.2 ov)
-LOCATION:Cricket Association Puducherry Siechem Ground\, Puducherry
+SUMMARY:🏏 India A Women vs Australia A Women\, 2nd unofficial ODI\, Aus
+ tralia A Women tour of India 2026 () — Australia A Women won by 2 wkts
+DTSTART;TZID=America/New_York:20260922T200000
+DTEND;TZID=America/New_York:20260923T000000
+DTSTAMP:20261013T162818Z
+UID:cricket-1abb3449-7a90-44c8-8b04-2ef742292aaf@sports-calendar
+DESCRIPTION:Australia A Women won by 2 wkts\nindia a women Inning 1: 338/6
+  (50 ov)\nIndia A Women\,Australia A Women Inning 1: 341/8 (49.3 ov)
+LOCATION:Punjab Cricket Association IS Bindra Stadium\, Mohali
 END:VEVENT
 END:VCALENDAR
