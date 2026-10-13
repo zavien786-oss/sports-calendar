@@ -5,38 +5,38 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:🏏 India A Women vs Australia A Women\, Only unofficial Test\, A
- ustralia A Women tour of India 2026 () — India A Women won by 281 runs
-DTSTART;TZID=America/New_York:20260928T200000
-DTEND;TZID=America/New_York:20260929T000000
-DTSTAMP:20261013T162818Z
-UID:cricket-9c01691f-668b-420e-954e-4d76abfd9d37@sports-calendar
-DESCRIPTION:India A Women won by 281 runs\nindia a women Inning 1: 364/10 
- (103.3 ov)\nIndia A Women\,Australia A Women Inning 1: 176/10 (63.4 ov)\ni
- ndia a women Inning 2: 257/10 (64.2 ov)\nIndia A Women\,Australia A Women 
- Inning 2: 164/10 (76 ov)
-LOCATION:Himachal Pradesh Cricket Association Stadium\, Dharamsala
+SUMMARY:🏏 India Champions vs West Indies Champions\, 15th Match\, World
+  Championship of Legends 2026 (T20) — West Indies Champions won by 6 wkt
+ s
+DTSTART;TZID=America/New_York:20261013T113000
+DTEND;TZID=America/New_York:20261013T153000
+DTSTAMP:20261013T212920Z
+UID:cricket-461133d0-b613-44f1-958d-bb523226ab90@sports-calendar
+DESCRIPTION:West Indies Champions won by 6 wkts\nIndia Champions Inning 1:
+  110/8 (20 ov)\nWest Indies Champions Inning 1: 111/4 (14.5 ov)
+LOCATION:Sharjah Cricket Stadium\, Sharjah
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 India A Women vs Australia A Women\, 3rd unofficial ODI\, Aus
- tralia A Women tour of India 2026 () — India A Women won by 4 wkts
-DTSTART;TZID=America/New_York:20260924T200000
-DTEND;TZID=America/New_York:20260925T000000
-DTSTAMP:20261013T162818Z
-UID:cricket-48aa16f6-6ae2-4736-9802-2c4e2e11e13d@sports-calendar
-DESCRIPTION:India A Women won by 4 wkts\naustralia a women Inning 1: 362/9
-  (50 ov)\nIndia A Women\,Australia A Women Inning 1: 364/6 (48.2 ov)
-LOCATION:Punjab Cricket Association IS Bindra Stadium\, Mohali
+SUMMARY:🏏 India Champions vs Bangladesh Champions\, 13th Match\, World 
+ Championship of Legends 2026 (T20) — Bangladesh Champions won by 3 runs
+DTSTART;TZID=America/New_York:20261010T200000
+DTEND;TZID=America/New_York:20261011T000000
+DTSTAMP:20261013T212920Z
+UID:cricket-e99855fe-6ed0-4448-8af0-2913749fddf3@sports-calendar
+DESCRIPTION:Bangladesh Champions won by 3 runs\nBangladesh Champions Innin
+ g 1: 141/9 (20 ov)\nIndia Champions Inning 1: 138/8 (20 ov)
+LOCATION:Sharjah Cricket Stadium\, Sharjah
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 India A Women vs Australia A Women\, 2nd unofficial ODI\, Aus
- tralia A Women tour of India 2026 () — Australia A Women won by 2 wkts
-DTSTART;TZID=America/New_York:20260922T200000
-DTEND;TZID=America/New_York:20260923T000000
-DTSTAMP:20261013T162818Z
-UID:cricket-1abb3449-7a90-44c8-8b04-2ef742292aaf@sports-calendar
-DESCRIPTION:Australia A Women won by 2 wkts\nindia a women Inning 1: 338/6
-  (50 ov)\nIndia A Women\,Australia A Women Inning 1: 341/8 (49.3 ov)
-LOCATION:Punjab Cricket Association IS Bindra Stadium\, Mohali
+SUMMARY:🏏 India Champions vs South Africa Champions\, 11th Match\, Worl
+ d Championship of Legends 2026 (T20) — South Africa Champions won by 4 w
+ kts
+DTSTART;TZID=America/New_York:20261009T200000
+DTEND;TZID=America/New_York:20261010T000000
+DTSTAMP:20261013T212920Z
+UID:cricket-2fcad54f-842d-4bf4-9a2e-ea8a7e99a32c@sports-calendar
+DESCRIPTION:South Africa Champions won by 4 wkts\nIndia Champions Inning 1
+ : 196/8 (20 ov)\nSouth Africa Champions Inning 1: 198/6 (18.5 ov)
+LOCATION:Sharjah Cricket Stadium\, Sharjah
 END:VEVENT
 END:VCALENDAR
