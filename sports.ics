@@ -10,7 +10,7 @@ SUMMARY:🏏 India Champions vs West Indies Champions\, 15th Match\, World
  s
 DTSTART;TZID=America/New_York:20261013T113000
 DTEND;TZID=America/New_York:20261013T153000
-DTSTAMP:20261013T212920Z
+DTSTAMP:20261014T003357Z
 UID:cricket-461133d0-b613-44f1-958d-bb523226ab90@sports-calendar
 DESCRIPTION:West Indies Champions won by 6 wkts\nIndia Champions Inning 1:
   110/8 (20 ov)\nWest Indies Champions Inning 1: 111/4 (14.5 ov)
@@ -21,22 +21,10 @@ SUMMARY:🏏 India Champions vs Bangladesh Champions\, 13th Match\, World
  Championship of Legends 2026 (T20) — Bangladesh Champions won by 3 runs
 DTSTART;TZID=America/New_York:20261010T200000
 DTEND;TZID=America/New_York:20261011T000000
-DTSTAMP:20261013T212920Z
+DTSTAMP:20261014T003357Z
 UID:cricket-e99855fe-6ed0-4448-8af0-2913749fddf3@sports-calendar
 DESCRIPTION:Bangladesh Champions won by 3 runs\nBangladesh Champions Innin
  g 1: 141/9 (20 ov)\nIndia Champions Inning 1: 138/8 (20 ov)
-LOCATION:Sharjah Cricket Stadium\, Sharjah
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India Champions vs South Africa Champions\, 11th Match\, Worl
- d Championship of Legends 2026 (T20) — South Africa Champions won by 4 w
- kts
-DTSTART;TZID=America/New_York:20261009T200000
-DTEND;TZID=America/New_York:20261010T000000
-DTSTAMP:20261013T212920Z
-UID:cricket-2fcad54f-842d-4bf4-9a2e-ea8a7e99a32c@sports-calendar
-DESCRIPTION:South Africa Champions won by 4 wkts\nIndia Champions Inning 1
- : 196/8 (20 ov)\nSouth Africa Champions Inning 1: 198/6 (18.5 ov)
 LOCATION:Sharjah Cricket Stadium\, Sharjah
 END:VEVENT
 END:VCALENDAR
