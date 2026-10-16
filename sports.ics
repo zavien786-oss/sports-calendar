@@ -10,32 +10,10 @@ SUMMARY:🏏 India Champions vs West Indies Champions\, 15th Match\, World
  s
 DTSTART;TZID=America/New_York:20261013T113000
 DTEND;TZID=America/New_York:20261013T153000
-DTSTAMP:20261016T184303Z
+DTSTAMP:20261016T214605Z
 UID:cricket-461133d0-b613-44f1-958d-bb523226ab90@sports-calendar
 DESCRIPTION:West Indies Champions won by 6 wkts\nIndia Champions Inning 1:
   110/8 (20 ov)\nWest Indies Champions Inning 1: 111/4 (14.5 ov)
 LOCATION:Sharjah Cricket Stadium\, Sharjah
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India Women vs Zimbabwe Women\, 1st T20I\, Zimbabwe Women tou
- r of India\, 2026 (T20) — India Women won by 4 wkts
-DTSTART;TZID=America/New_York:20261016T093000
-DTEND;TZID=America/New_York:20261016T133000
-DTSTAMP:20261016T184303Z
-UID:cricket-b9c38067-96a6-41ea-94ba-417b4d8f0f23@sports-calendar
-DESCRIPTION:India Women won by 4 wkts\nZimbabwe Women Inning 1: 114/5 (20 
- ov)\nIndia Women Inning 1: 116/6 (15.4 ov)
-LOCATION:Shaheed Veer Narayan Singh International Stadium\, Raipur
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India Women vs Bangladesh Women\, Semi Final 1 (A1 v B2)\, Wo
- mens Asia Cup 2026 (T20) — India Women won by 40 runs
-DTSTART;TZID=America/New_York:20260909T200000
-DTEND;TZID=America/New_York:20260910T000000
-DTSTAMP:20261016T184303Z
-UID:cricket-17f82cc5-f9f6-4c8a-ab78-927fdb831ee2@sports-calendar
-DESCRIPTION:India Women won by 40 runs\nIndia Women Inning 1: 149/6 (20 ov
- )\nBangladesh Women Inning 1: 109/7 (20 ov)
-LOCATION:Dubai International Cricket Stadium\, Dubai
 END:VEVENT
 END:VCALENDAR
