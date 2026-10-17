@@ -4,16 +4,4 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
-BEGIN:VEVENT
-SUMMARY:🏏 India Champions vs West Indies Champions\, 15th Match\, World
-  Championship of Legends 2026 (T20) — West Indies Champions won by 6 wkt
- s
-DTSTART;TZID=America/New_York:20261013T113000
-DTEND;TZID=America/New_York:20261013T153000
-DTSTAMP:20261016T214605Z
-UID:cricket-461133d0-b613-44f1-958d-bb523226ab90@sports-calendar
-DESCRIPTION:West Indies Champions won by 6 wkts\nIndia Champions Inning 1:
-  110/8 (20 ov)\nWest Indies Champions Inning 1: 111/4 (14.5 ov)
-LOCATION:Sharjah Cricket Stadium\, Sharjah
-END:VEVENT
 END:VCALENDAR
