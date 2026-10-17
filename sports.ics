@@ -4,4 +4,36 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:🏏 India Women vs Bangladesh Women\, Semi Final 1 (A1 v B2)\, Wo
+ mens Asia Cup 2026 (T20) — India Women won by 40 runs
+DTSTART;TZID=America/New_York:20260909T200000
+DTEND;TZID=America/New_York:20260910T000000
+DTSTAMP:20261017T184416Z
+UID:cricket-17f82cc5-f9f6-4c8a-ab78-927fdb831ee2@sports-calendar
+DESCRIPTION:India Women won by 40 runs\nIndia Women Inning 1: 149/6 (20 ov
+ )\nBangladesh Women Inning 1: 109/7 (20 ov)
+LOCATION:Dubai International Cricket Stadium\, Dubai
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India vs West Indies\, 5th T20I\, West Indies tour of India\,
+  2026 (ODI) — No result due to rain
+DTSTART;TZID=America/New_York:20261017T093000
+DTEND;TZID=America/New_York:20261017T173000
+DTSTAMP:20261017T184416Z
+UID:cricket-f6ac293e-72ae-434e-aabc-dec0bdcc2114@sports-calendar
+DESCRIPTION:No result due to rain\nIndia Inning 1: 118/5 (7.4 ov)
+LOCATION:M.Chinnaswamy Stadium\, Bengaluru
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 India vs West Indies\, 4th T20I\, West Indies tour of India\,
+  2026 (ODI) — West Indies won by 24 runs
+DTSTART;TZID=America/New_York:20261014T093000
+DTEND;TZID=America/New_York:20261014T173000
+DTSTAMP:20261017T184416Z
+UID:cricket-3c451481-9fa8-400b-a7b6-27cffc21e1a8@sports-calendar
+DESCRIPTION:West Indies won by 24 runs\nWest Indies Inning 1: 247/3 (20 ov
+ )\nIndia Inning 1: 223/9 (19.3 ov)
+LOCATION:Rajiv Gandhi International Stadium\, Hyderabad
+END:VEVENT
 END:VCALENDAR
