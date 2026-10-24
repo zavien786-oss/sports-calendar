@@ -6,13 +6,14 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:🏏 New Zealand A vs India A\, 1st Unofficial Test\, India A tour
-  of New Zealand\, 2026 (TEST)
+  of New Zealand\, 2026 (TEST) — Day 1: 3rd Session - New Zealand A lead 
+ by 22 runs
 DTSTART;TZID=America/New_York:20261024T173000
 DTEND;TZID=America/New_York:20261025T013000
-DTSTAMP:20261024T004744Z
+DTSTAMP:20261024T053559Z
 UID:cricket-aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66@sports-calendar
-DESCRIPTION:Day 1: 2nd Session - New Zealand A opt to bowl\nIndia A Inning
-  1: 55/4 (28 ov)
+DESCRIPTION:Day 1: 3rd Session - New Zealand A lead by 22 runs\nIndia A In
+ ning 1: 113/10 (39.3 ov)\nNew Zealand A Inning 1: 135/3 (41 ov)
 LOCATION:Bert Sutcliffe Oval\, Lincoln
 END:VEVENT
 BEGIN:VEVENT
@@ -20,7 +21,7 @@ SUMMARY:🏏 India Women vs Zimbabwe Women\, 1st ODI\, Zimbabwe Women tour
   of India\, 2026 () — India Women won by 9 wkts
 DTSTART;TZID=America/New_York:20261023T043000
 DTEND;TZID=America/New_York:20261023T083000
-DTSTAMP:20261024T004744Z
+DTSTAMP:20261024T053559Z
 UID:cricket-0957b7a3-4906-49ef-9008-ccc58986f7ad@sports-calendar
 DESCRIPTION:India Women won by 9 wkts\nzimbabwe women Inning 1: 197/10 (49
  .5 ov)\nIndia Women\,Zimbabwe Women Inning 1: 200/1 (27.1 ov)
@@ -31,7 +32,7 @@ SUMMARY:🏏 India Women vs Zimbabwe Women\, 3rd T20I\, Zimbabwe Women tou
  r of India\, 2026 (T20) — India Women won by 92 runs
 DTSTART;TZID=America/New_York:20261020T093000
 DTEND;TZID=America/New_York:20261020T133000
-DTSTAMP:20261024T004744Z
+DTSTAMP:20261024T053559Z
 UID:cricket-7ef2a3f0-c9f5-402a-9417-078e9d583d6e@sports-calendar
 DESCRIPTION:India Women won by 92 runs\nindia women Inning 1: 216/7 (20 ov
  )\nIndia Women\,Zimbabwe Women Inning 1: 124/7 (20 ov)
