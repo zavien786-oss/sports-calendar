@@ -6,15 +6,14 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:🏏 New Zealand A vs India A\, 1st Unofficial Test\, India A tour
-  of New Zealand\, 2026 (TEST) — Day 3: Lunch Break - India A lead by 22 
- runs
+  of New Zealand\, 2026 (TEST) — Day 3: Stumps - India A lead by 284 runs
 DTSTART;TZID=America/New_York:20261024T173000
 DTEND;TZID=America/New_York:20261025T013000
-DTSTAMP:20261026T003947Z
+DTSTAMP:20261026T052331Z
 UID:cricket-aa5a7ee5-117f-4cfe-bf6f-81f3aa749e66@sports-calendar
-DESCRIPTION:Day 3: Lunch Break - India A lead by 22 runs\nIndia A Inning 1
- : 113/10 (39.3 ov)\nNew Zealand A Inning 1: 317/10 (89.3 ov)\nIndia A Inni
- ng 2: 226/3 (63 ov)
+DESCRIPTION:Day 3: Stumps - India A lead by 284 runs\nIndia A Inning 1: 11
+ 3/10 (39.3 ov)\nNew Zealand A Inning 1: 317/10 (89.3 ov)\nIndia A Inning 2
+ : 488/8 (119 ov)
 LOCATION:Bert Sutcliffe Oval\, Lincoln
 END:VEVENT
 END:VCALENDAR
