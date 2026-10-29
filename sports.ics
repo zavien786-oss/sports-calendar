@@ -9,21 +9,10 @@ SUMMARY:🏏 India Women vs Zimbabwe Women\, 3rd ODI\, Zimbabwe Women tour
   of India\, 2026 () — India Women won by 8 wkts
 DTSTART;TZID=America/New_York:20261028T043000
 DTEND;TZID=America/New_York:20261028T083000
-DTSTAMP:20261029T133411Z
+DTSTAMP:20261029T191500Z
 UID:cricket-7dc5c9c9-4924-4e36-a7a2-1f7eda3d5080@sports-calendar
 DESCRIPTION:India Women won by 8 wkts\nzimbabwe women Inning 1: 131/10 (39
  .5 ov)\nIndia Women\,Zimbabwe Women Inning 1: 133/2 (17 ov)
-LOCATION:BCA Stadium\, Kotambi\, Vadodara
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India Women vs Zimbabwe Women\, 2nd ODI\, Zimbabwe Women tour
-  of India\, 2026 () — India Women won by 121 runs
-DTSTART;TZID=America/New_York:20261025T043000
-DTEND;TZID=America/New_York:20261025T083000
-DTSTAMP:20261029T133411Z
-UID:cricket-bb9378ae-85dd-4513-85ef-069c87305750@sports-calendar
-DESCRIPTION:India Women won by 121 runs\nindia women Inning 1: 328/6 (50 o
- v)\nIndia Women\,Zimbabwe Women Inning 1: 207/10 (48.5 ov)
 LOCATION:BCA Stadium\, Kotambi\, Vadodara
 END:VEVENT
 END:VCALENDAR
