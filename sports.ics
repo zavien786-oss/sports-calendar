@@ -9,21 +9,21 @@ SUMMARY:🏏 India vs Pakistan\, Group C\, Hong Kong Sixes 2026 (T20) —
  Pakistan won by 4 wkts
 DTSTART;TZID=America/New_York:20261030T021500
 DTEND;TZID=America/New_York:20261030T061500
-DTSTAMP:20261030T210542Z
+DTSTAMP:20261031T004832Z
 UID:cricket-f34af7e2-9ab9-434b-9586-549a41e0744d@sports-calendar
 DESCRIPTION:Pakistan won by 4 wkts\nIndia Inning 1: 88/5 (6 ov)\nPakistan 
  Inning 1: 91/2 (3.5 ov)
 LOCATION:Mission Road Ground\, Mong Kok
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 India Women vs Zimbabwe Women\, 3rd ODI\, Zimbabwe Women tour
-  of India\, 2026 () — India Women won by 8 wkts
-DTSTART;TZID=America/New_York:20261028T043000
-DTEND;TZID=America/New_York:20261028T083000
-DTSTAMP:20261030T210542Z
-UID:cricket-7dc5c9c9-4924-4e36-a7a2-1f7eda3d5080@sports-calendar
-DESCRIPTION:India Women won by 8 wkts\nzimbabwe women Inning 1: 131/10 (39
- .5 ov)\nIndia Women\,Zimbabwe Women Inning 1: 133/2 (17 ov)
-LOCATION:BCA Stadium\, Kotambi\, Vadodara
+SUMMARY:🏏 New Zealand A vs India A\, 2nd Unofficial Test\, India A tour
+  of New Zealand\, 2026 (TEST)
+DTSTART;TZID=America/New_York:20261031T173000
+DTEND;TZID=America/New_York:20261101T013000
+DTSTAMP:20261031T004832Z
+UID:cricket-bab6c1ea-5145-4c1f-936a-e32d2280479a@sports-calendar
+DESCRIPTION:Day 1: 2nd Session - New Zealand A opt to bowl\nIndia A Inning
+  1: 91/2 (27.1 ov)
+LOCATION:Hagley Oval\, Christchurch
 END:VEVENT
 END:VCALENDAR
