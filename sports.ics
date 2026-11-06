@@ -4,4 +4,14 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:🏏 India U19 vs Nepal U19\, 4th Match\, Group A\, ACC Mens U19 A
+ sia Cup 2026 (ODI) — NE19 69/4
+DTSTART;TZID=America/New_York:20261106T000000
+DTEND;TZID=America/New_York:20261106T080000
+DTSTAMP:20261106T071346Z
+UID:cricket-8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e@sports-calendar
+DESCRIPTION:India U19 opt to bowl\nNepal U19 Inning 1: 69/4 (22.1 ov)
+LOCATION:Al Amerat Cricket Ground (Ministry Turf 1)\, Al Amerat
+END:VEVENT
 END:VCALENDAR
