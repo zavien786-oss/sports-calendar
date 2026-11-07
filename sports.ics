@@ -9,11 +9,21 @@ SUMMARY:🏏 India U19 vs Nepal U19\, 4th Match\, Group A\, ACC Mens U19 A
  sia Cup 2026 (ODI) — India U19 won by 10 wkts
 DTSTART;TZID=America/New_York:20261106T000000
 DTEND;TZID=America/New_York:20261106T080000
-DTSTAMP:20261106T205514Z
+DTSTAMP:20261107T004752Z
 UID:cricket-8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e@sports-calendar
 DESCRIPTION:India U19 won by 10 wkts\nNepal U19 Inning 1: 128/10 (42.3 ov)
  \nIndia U19 Inning 1: 129/0 (19.1 ov)
 LOCATION:Al Amerat Cricket Ground (Ministry Turf 1)\, Al Amerat
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand A vs India A\, 3rd Unofficial Test\, India A tour
+  of New Zealand\, 2026 (TEST)
+DTSTART;TZID=America/New_York:20261107T163000
+DTEND;TZID=America/New_York:20261108T003000
+DTSTAMP:20261107T004752Z
+UID:cricket-9bdb29a3-e23d-4400-b4d9-86a8f857d0ba@sports-calendar
+DESCRIPTION:New Zealand A opt to bowl\nIndia A Inning 1: 83/0 (27 ov)
+LOCATION:Bert Sutcliffe Oval\, Lincoln
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:🏏 New Zealand vs India\, 1st ODI\, India tour of New Zealand 20
@@ -21,7 +31,7 @@ SUMMARY:🏏 New Zealand vs India\, 1st ODI\, India tour of New Zealand 20
  t 143
 DTSTART;TZID=America/New_York:20261103T210000
 DTEND;TZID=America/New_York:20261104T010000
-DTSTAMP:20261106T205514Z
+DTSTAMP:20261107T004752Z
 UID:cricket-c547eb46-2025-413a-b7f2-6d1584daa42f@sports-calendar
 DESCRIPTION:India won by 5 wkts  -  2nd inns reduced to 32 overs - DLS Tar
  get 143\nNew Zealand Inning 1: 185/10 (40.2 ov)\nIndia Inning 1: 143/5 (22
