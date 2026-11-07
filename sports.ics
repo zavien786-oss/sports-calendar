@@ -5,25 +5,25 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
-SUMMARY:🏏 New Zealand A vs India A\, 3rd Unofficial Test\, India A tour
-  of New Zealand\, 2026 (TEST)
-DTSTART;TZID=America/New_York:20261107T163000
-DTEND;TZID=America/New_York:20261108T003000
-DTSTAMP:20261107T183616Z
-UID:cricket-9bdb29a3-e23d-4400-b4d9-86a8f857d0ba@sports-calendar
-DESCRIPTION:Day 1: Stumps - New Zealand A opt to bowl\nIndia A Inning 1: 2
- 27/2 (69.3 ov)
-LOCATION:Bert Sutcliffe Oval\, Lincoln
+SUMMARY:🏏 India U19 vs Nepal U19\, 4th Match\, Group A\, ACC Mens U19 A
+ sia Cup 2026 (ODI) — India U19 won by 10 wkts
+DTSTART;TZID=America/New_York:20261106T000000
+DTEND;TZID=America/New_York:20261106T080000
+DTSTAMP:20261107T221914Z
+UID:cricket-8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e@sports-calendar
+DESCRIPTION:India U19 won by 10 wkts\nNepal U19 Inning 1: 128/10 (42.3 ov)
+ \nIndia U19 Inning 1: 129/0 (19.1 ov)
+LOCATION:Al Amerat Cricket Ground (Ministry Turf 1)\, Al Amerat
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 New Zealand vs India\, 2nd ODI\, India tour of New Zealand 20
- 26 () — India won by 4 runs (DLS method)
-DTSTART;TZID=America/New_York:20261106T210000
-DTEND;TZID=America/New_York:20261107T010000
-DTSTAMP:20261107T183616Z
-UID:cricket-8d868342-e1d5-4f86-a4f0-093f6abab3f9@sports-calendar
-DESCRIPTION:India won by 4 runs (DLS method)\nNew Zealand Inning 1: 134/10
-  (41 ov)\nIndia Inning 1: 113/7 (26 ov)
-LOCATION:Hnry Stadium\, Wellington
+SUMMARY:🏏 New Zealand A vs India A\, 3rd Unofficial Test\, India A tour
+  of New Zealand\, 2026 (TEST) — INA 267/2
+DTSTART;TZID=America/New_York:20261107T163000
+DTEND;TZID=America/New_York:20261108T003000
+DTSTAMP:20261107T221914Z
+UID:cricket-9bdb29a3-e23d-4400-b4d9-86a8f857d0ba@sports-calendar
+DESCRIPTION:Day 2: 1st Session - New Zealand A opt to bowl\nIndia A Inning
+  1: 267/2 (79 ov)
+LOCATION:Bert Sutcliffe Oval\, Lincoln
 END:VEVENT
 END:VCALENDAR
