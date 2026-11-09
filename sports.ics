@@ -9,7 +9,7 @@ SUMMARY:🏏 India U19 vs Pakistan U19\, 8th Match\, Group A\, ACC Mens U1
  9 Asia Cup 2026 (ODI) — Pakistan U19 won by 3 wkts
 DTSTART;TZID=America/New_York:20261108T000000
 DTEND;TZID=America/New_York:20261108T080000
-DTSTAMP:20261109T025955Z
+DTSTAMP:20261109T111957Z
 UID:cricket-8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076@sports-calendar
 DESCRIPTION:Pakistan U19 won by 3 wkts\nindia u19 Inning 1: 208/10 (46.3 o
  v)\nIndia U19\,Pakistan U19 Inning 1: 209/7 (48.1 ov)
@@ -20,22 +20,10 @@ SUMMARY:🏏 India U19 vs Nepal U19\, 4th Match\, Group A\, ACC Mens U19 A
  sia Cup 2026 (ODI) — India U19 won by 10 wkts
 DTSTART;TZID=America/New_York:20261106T000000
 DTEND;TZID=America/New_York:20261106T080000
-DTSTAMP:20261109T025955Z
+DTSTAMP:20261109T111957Z
 UID:cricket-8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e@sports-calendar
 DESCRIPTION:India U19 won by 10 wkts\nNepal U19 Inning 1: 128/10 (42.3 ov)
  \nIndia U19 Inning 1: 129/0 (19.1 ov)
 LOCATION:Al Amerat Cricket Ground (Ministry Turf 1)\, Al Amerat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 New Zealand A vs India A\, 3rd Unofficial Test\, India A tour
-  of New Zealand\, 2026 (TEST) — INA 464/5\, NZA 36/2
-DTSTART;TZID=America/New_York:20261107T163000
-DTEND;TZID=America/New_York:20261108T003000
-DTSTAMP:20261109T025955Z
-UID:cricket-9bdb29a3-e23d-4400-b4d9-86a8f857d0ba@sports-calendar
-DESCRIPTION:Day 3: Start delayed due to wet outfield - New Zealand A trail
-  by 428 runs\nIndia A Inning 1: 464/5 (146 ov)\nNew Zealand A Inning 1: 36
- /2 (14 ov)
-LOCATION:Bert Sutcliffe Oval\, Lincoln
 END:VEVENT
 END:VCALENDAR
