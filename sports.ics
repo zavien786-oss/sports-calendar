@@ -6,13 +6,13 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:🏏 India U19 vs United Arab Emirates U19\, 11th Match\, Group A
- \, ACC Mens U19 Asia Cup 2026 (ODI) — IN19 309/7\, AE19 232/8
+ \, ACC Mens U19 Asia Cup 2026 (ODI) — India U19 won by 70 runs
 DTSTART;TZID=America/New_York:20261110T000000
 DTEND;TZID=America/New_York:20261110T080000
-DTSTAMP:20261110T122326Z
+DTSTAMP:20261110T195617Z
 UID:cricket-3fb2e0da-8759-48ec-8913-672394777f2f@sports-calendar
-DESCRIPTION:United Arab Emirates U19 need 78 runs in 14 balls\nIndia U19 I
- nning 1: 309/7 (50 ov)\nUnited Arab Emirates U19 Inning 1: 232/8 (47.4 ov)
+DESCRIPTION:India U19 won by 70 runs\nIndia U19 Inning 1: 309/7 (50 ov)\nU
+ nited Arab Emirates U19 Inning 1: 239/10 (50 ov)
 LOCATION:Al Amerat Cricket Ground (Ministry Turf 2)\, Al Amerat
 END:VEVENT
 BEGIN:VEVENT
@@ -20,21 +20,10 @@ SUMMARY:🏏 India U19 vs Pakistan U19\, 8th Match\, Group A\, ACC Mens U1
  9 Asia Cup 2026 (ODI) — Pakistan U19 won by 3 wkts
 DTSTART;TZID=America/New_York:20261108T000000
 DTEND;TZID=America/New_York:20261108T080000
-DTSTAMP:20261110T122326Z
+DTSTAMP:20261110T195617Z
 UID:cricket-8d42f9d6-64ba-40b9-80fc-d9b5f3b7c076@sports-calendar
 DESCRIPTION:Pakistan U19 won by 3 wkts\nindia u19 Inning 1: 208/10 (46.3 o
  v)\nIndia U19\,Pakistan U19 Inning 1: 209/7 (48.1 ov)
 LOCATION:Al Amerat Cricket Ground (Ministry Turf 2)\, Al Amerat
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India U19 vs Nepal U19\, 4th Match\, Group A\, ACC Mens U19 A
- sia Cup 2026 (ODI) — India U19 won by 10 wkts
-DTSTART;TZID=America/New_York:20261106T000000
-DTEND;TZID=America/New_York:20261106T080000
-DTSTAMP:20261110T122326Z
-UID:cricket-8cab6ab0-4760-429b-8bc7-1fb8d9d24b9e@sports-calendar
-DESCRIPTION:India U19 won by 10 wkts\nNepal U19 Inning 1: 128/10 (42.3 ov)
- \nIndia U19 Inning 1: 129/0 (19.1 ov)
-LOCATION:Al Amerat Cricket Ground (Ministry Turf 1)\, Al Amerat
 END:VEVENT
 END:VCALENDAR
