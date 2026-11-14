@@ -5,11 +5,21 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:🏏 Pakistan U19 vs India U19\, Final\, ACC Mens U19 Asia Cup 202
+ 6 (ODI) — pakistan u19 337/9
+DTSTART;TZID=America/New_York:20261114T000000
+DTEND;TZID=America/New_York:20261114T080000
+DTSTAMP:20261114T084918Z
+UID:cricket-988a1f39-fe03-4f32-817b-5322885c90b5@sports-calendar
+DESCRIPTION:Innings Break\npakistan u19 Inning 1: 337/9 (50 ov)
+LOCATION:Al Amerat Cricket Ground (Ministry Turf 2)\, Al Amerat
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏏 Afghanistan U19 vs India U19\, Semi Final 2 (B1 v A2)\, ACC M
  ens U19 Asia Cup 2026 (ODI) — India U19 won by 8 wkts
 DTSTART;TZID=America/New_York:20261112T000000
 DTEND;TZID=America/New_York:20261112T080000
-DTSTAMP:20261114T015037Z
+DTSTAMP:20261114T084918Z
 UID:cricket-d1b15e05-287b-4a51-a115-2e6ea555f783@sports-calendar
 DESCRIPTION:India U19 won by 8 wkts\nafghanistan u19 Inning 1: 227/8 (50 o
  v)\nAfghanistan U19\,India U19 Inning 1: 230/2 (36.5 ov)
@@ -20,7 +30,7 @@ SUMMARY:🏏 India U19 vs United Arab Emirates U19\, 11th Match\, Group A
  \, ACC Mens U19 Asia Cup 2026 (ODI) — India U19 won by 70 runs
 DTSTART;TZID=America/New_York:20261110T000000
 DTEND;TZID=America/New_York:20261110T080000
-DTSTAMP:20261114T015037Z
+DTSTAMP:20261114T084918Z
 UID:cricket-3fb2e0da-8759-48ec-8913-672394777f2f@sports-calendar
 DESCRIPTION:India U19 won by 70 runs\nIndia U19 Inning 1: 309/7 (50 ov)\nU
  nited Arab Emirates U19 Inning 1: 239/10 (50 ov)
