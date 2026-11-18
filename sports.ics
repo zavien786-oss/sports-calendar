@@ -4,15 +4,4 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
-BEGIN:VEVENT
-SUMMARY:🏏 Pakistan U19 vs India U19\, Final\, ACC Mens U19 Asia Cup 202
- 6 (ODI) — India U19 won by 1 wkt
-DTSTART;TZID=America/New_York:20261114T000000
-DTEND;TZID=America/New_York:20261114T080000
-DTSTAMP:20261118T033128Z
-UID:cricket-988a1f39-fe03-4f32-817b-5322885c90b5@sports-calendar
-DESCRIPTION:India U19 won by 1 wkt\npakistan u19 Inning 1: 337/9 (50 ov)\n
- Pakistan U19\,India U19 Inning 1: 339/9 (50 ov)
-LOCATION:Al Amerat Cricket Ground (Ministry Turf 2)\, Al Amerat
-END:VEVENT
 END:VCALENDAR
