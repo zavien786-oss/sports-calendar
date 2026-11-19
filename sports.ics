@@ -4,4 +4,15 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:🏏 New Zealand vs India\, 1st Test\, India tour of New Zealand 2
+ 026 ()
+DTSTART;TZID=America/New_York:20261119T170000
+DTEND;TZID=America/New_York:20261119T210000
+DTSTAMP:20261119T191034Z
+UID:cricket-163a0512-5f23-4446-b450-fa888e36038e@sports-calendar
+DESCRIPTION:Day 1: Stumps - India opt to bowl\nNew Zealand Inning 1: 243/5
+  (82 ov)
+LOCATION:Basin Reserve\, Wellington
+END:VEVENT
 END:VCALENDAR
