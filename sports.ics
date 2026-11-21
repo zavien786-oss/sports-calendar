@@ -4,4 +4,15 @@ PRODID:-//sports-calendar-aggregator//github.com//
 X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams 
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+SUMMARY:🏏 India A vs Nepal\, 4th Match\, Group B\, ACC Mens Asia Cup Ri
+ sing Stars 2026 (ODI) — India A won by 306 runs
+DTSTART;TZID=America/New_York:20261119T190000
+DTEND;TZID=America/New_York:20261120T030000
+DTSTAMP:20261121T064124Z
+UID:cricket-39bb2cbe-5c92-4892-99ad-4f49a5b1e51b@sports-calendar
+DESCRIPTION:India A won by 306 runs\nIndia A Inning 1: 332/9 (50 ov)\nNepa
+ l Inning 1: 26/10 (11.3 ov)
+LOCATION:West End Park International Cricket Stadium\, Doha
+END:VEVENT
 END:VCALENDAR
