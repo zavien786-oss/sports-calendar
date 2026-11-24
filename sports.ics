@@ -9,18 +9,29 @@ SUMMARY:🏏 India A vs Nepal\, 4th Match\, Group B\, ACC Mens Asia Cup Ri
  sing Stars 2026 (ODI) — India A won by 306 runs
 DTSTART;TZID=America/New_York:20261119T190000
 DTEND;TZID=America/New_York:20261120T030000
-DTSTAMP:20261123T224058Z
+DTSTAMP:20261124T062802Z
 UID:cricket-39bb2cbe-5c92-4892-99ad-4f49a5b1e51b@sports-calendar
 DESCRIPTION:India A won by 306 runs\nIndia A Inning 1: 332/9 (50 ov)\nNepa
  l Inning 1: 26/10 (11.3 ov)
 LOCATION:West End Park International Cricket Stadium\, Doha
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:🏏 India A vs United Arab Emirates\, 11th Match\, Group B\, ACC 
+ Mens Asia Cup Rising Stars 2026 (ODI) — united arab emirates 20/1
+DTSTART;TZID=America/New_York:20261124T010000
+DTEND;TZID=America/New_York:20261124T090000
+DTSTAMP:20261124T062802Z
+UID:cricket-34838ce0-fb99-4126-a4e4-2f1557abc8c1@sports-calendar
+DESCRIPTION:United Arab Emirates opt to bat\nunited arab emirates Inning 1
+ : 20/1 (5 ov)
+LOCATION:University of Doha for Science and Technology\, Doha
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏏 India A vs Pakistan A\, 8th Match\, Group B\, ACC Mens Asia C
  up Rising Stars 2026 (ODI) — Pakistan A won by 48 runs
 DTSTART;TZID=America/New_York:20261122T050000
 DTEND;TZID=America/New_York:20261122T130000
-DTSTAMP:20261123T224058Z
+DTSTAMP:20261124T062802Z
 UID:cricket-41baa734-f7a7-4dcf-95c0-544026630c44@sports-calendar
 DESCRIPTION:Pakistan A won by 48 runs\npakistan a Inning 1: 313/10 (49.2 o
  v)\nIndia A\,Pakistan A Inning 1: 265/10 (49.1 ov)
