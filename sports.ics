@@ -6,12 +6,13 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
 SUMMARY:🏏 Sri Lanka A vs India A\, 1st Semi-Final (A1 v B2)\, ACC Mens 
- Asia Cup Rising Stars 2026 (ODI) — india a 263/6
+ Asia Cup Rising Stars 2026 (ODI) — Sri Lanka A won by 8 wkts
 DTSTART;TZID=America/New_York:20261126T050000
 DTEND;TZID=America/New_York:20261126T130000
-DTSTAMP:20261126T131354Z
+DTSTAMP:20261126T222536Z
 UID:cricket-39dd6c08-96af-4a2d-9db6-b193a04c8787@sports-calendar
-DESCRIPTION:India A opt to bat\nindia a Inning 1: 263/6 (45.1 ov)
+DESCRIPTION:Sri Lanka A won by 8 wkts\nindia a Inning 1: 317/8 (50 ov)\nSr
+ i Lanka A\,India A Inning 1: 318/2 (41.3 ov)
 LOCATION:West End Park International Cricket Stadium\, Doha
 END:VEVENT
 BEGIN:VEVENT
@@ -19,21 +20,22 @@ SUMMARY:🏏 India A vs United Arab Emirates\, 11th Match\, Group B\, ACC
  Mens Asia Cup Rising Stars 2026 (ODI) — India A won by 7 wkts
 DTSTART;TZID=America/New_York:20261124T010000
 DTEND;TZID=America/New_York:20261124T090000
-DTSTAMP:20261126T131354Z
+DTSTAMP:20261126T222536Z
 UID:cricket-34838ce0-fb99-4126-a4e4-2f1557abc8c1@sports-calendar
 DESCRIPTION:India A won by 7 wkts\nunited arab emirates Inning 1: 249/8 (5
  0 ov)\nIndia A\,United Arab Emirates Inning 1: 254/3 (14.2 ov)
 LOCATION:University of Doha for Science and Technology\, Doha
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:🏏 India A vs Pakistan A\, 8th Match\, Group B\, ACC Mens Asia C
- up Rising Stars 2026 (ODI) — Pakistan A won by 48 runs
-DTSTART;TZID=America/New_York:20261122T050000
-DTEND;TZID=America/New_York:20261122T130000
-DTSTAMP:20261126T131354Z
-UID:cricket-41baa734-f7a7-4dcf-95c0-544026630c44@sports-calendar
-DESCRIPTION:Pakistan A won by 48 runs\npakistan a Inning 1: 313/10 (49.2 o
- v)\nIndia A\,Pakistan A Inning 1: 265/10 (49.1 ov)
-LOCATION:West End Park International Cricket Stadium\, Doha
+SUMMARY:🏏 India Women U19 vs England Women U19\, 1st unofficial T20I\, 
+ England Women U19 tour of India 2026 (T20) — India Women U19 won by 36 r
+ uns
+DTSTART;TZID=America/New_York:20261126T073000
+DTEND;TZID=America/New_York:20261126T113000
+DTSTAMP:20261126T222536Z
+UID:cricket-4830a892-257d-42e7-9921-6ab81b5fe5c6@sports-calendar
+DESCRIPTION:India Women U19 won by 36 runs\nindia women u19 Inning 1: 197/
+ 5 (20 ov)\nIndia Women U19\,England Women U19 Inning 1: 161/10 (19 ov)
+LOCATION:BCA Stadium\, Kotambi\, Vadodara
 END:VEVENT
 END:VCALENDAR
