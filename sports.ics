@@ -5,11 +5,21 @@ X-WR-CALNAME:🏏 Cricket (India) / ⚽ FIFA World Cup / 🎾 Grand Slams
  / ⚾ Braves
 X-WR-TIMEZONE:America/New_York
 BEGIN:VEVENT
+SUMMARY:🏏 Sri Lanka A vs India A\, 1st Semi-Final (A1 v B2)\, ACC Mens 
+ Asia Cup Rising Stars 2026 (ODI) — india a 263/6
+DTSTART;TZID=America/New_York:20261126T050000
+DTEND;TZID=America/New_York:20261126T130000
+DTSTAMP:20261126T131354Z
+UID:cricket-39dd6c08-96af-4a2d-9db6-b193a04c8787@sports-calendar
+DESCRIPTION:India A opt to bat\nindia a Inning 1: 263/6 (45.1 ov)
+LOCATION:West End Park International Cricket Stadium\, Doha
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:🏏 India A vs United Arab Emirates\, 11th Match\, Group B\, ACC 
  Mens Asia Cup Rising Stars 2026 (ODI) — India A won by 7 wkts
 DTSTART;TZID=America/New_York:20261124T010000
 DTEND;TZID=America/New_York:20261124T090000
-DTSTAMP:20261126T034410Z
+DTSTAMP:20261126T131354Z
 UID:cricket-34838ce0-fb99-4126-a4e4-2f1557abc8c1@sports-calendar
 DESCRIPTION:India A won by 7 wkts\nunited arab emirates Inning 1: 249/8 (5
  0 ov)\nIndia A\,United Arab Emirates Inning 1: 254/3 (14.2 ov)
@@ -20,7 +30,7 @@ SUMMARY:🏏 India A vs Pakistan A\, 8th Match\, Group B\, ACC Mens Asia C
  up Rising Stars 2026 (ODI) — Pakistan A won by 48 runs
 DTSTART;TZID=America/New_York:20261122T050000
 DTEND;TZID=America/New_York:20261122T130000
-DTSTAMP:20261126T034410Z
+DTSTAMP:20261126T131354Z
 UID:cricket-41baa734-f7a7-4dcf-95c0-544026630c44@sports-calendar
 DESCRIPTION:Pakistan A won by 48 runs\npakistan a Inning 1: 313/10 (49.2 o
  v)\nIndia A\,Pakistan A Inning 1: 265/10 (49.1 ov)
