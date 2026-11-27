@@ -9,7 +9,7 @@ SUMMARY:🏏 Sri Lanka A vs India A\, 1st Semi-Final (A1 v B2)\, ACC Mens
  Asia Cup Rising Stars 2026 (ODI) — Sri Lanka A won by 8 wkts
 DTSTART;TZID=America/New_York:20261126T050000
 DTEND;TZID=America/New_York:20261126T130000
-DTSTAMP:20261127T042712Z
+DTSTAMP:20261127T141314Z
 UID:cricket-39dd6c08-96af-4a2d-9db6-b193a04c8787@sports-calendar
 DESCRIPTION:Sri Lanka A won by 8 wkts\nindia a Inning 1: 317/8 (50 ov)\nSr
  i Lanka A\,India A Inning 1: 318/2 (41.3 ov)
@@ -20,22 +20,10 @@ SUMMARY:🏏 India A vs United Arab Emirates\, 11th Match\, Group B\, ACC
  Mens Asia Cup Rising Stars 2026 (ODI) — India A won by 7 wkts
 DTSTART;TZID=America/New_York:20261124T010000
 DTEND;TZID=America/New_York:20261124T090000
-DTSTAMP:20261127T042712Z
+DTSTAMP:20261127T141314Z
 UID:cricket-34838ce0-fb99-4126-a4e4-2f1557abc8c1@sports-calendar
 DESCRIPTION:India A won by 7 wkts\nunited arab emirates Inning 1: 249/8 (5
  0 ov)\nIndia A\,United Arab Emirates Inning 1: 254/3 (14.2 ov)
 LOCATION:University of Doha for Science and Technology\, Doha
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:🏏 India Women U19 vs England Women U19\, 1st unofficial T20I\, 
- England Women U19 tour of India 2026 (T20) — India Women U19 won by 36 r
- uns
-DTSTART;TZID=America/New_York:20261126T073000
-DTEND;TZID=America/New_York:20261126T113000
-DTSTAMP:20261127T042712Z
-UID:cricket-4830a892-257d-42e7-9921-6ab81b5fe5c6@sports-calendar
-DESCRIPTION:India Women U19 won by 36 runs\nindia women u19 Inning 1: 197/
- 5 (20 ov)\nIndia Women U19\,England Women U19 Inning 1: 161/10 (19 ov)
-LOCATION:BCA Stadium\, Kotambi\, Vadodara
 END:VEVENT
 END:VCALENDAR
